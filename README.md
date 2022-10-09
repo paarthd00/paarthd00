@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paarth.
-- 👀 I’m interested in Web Debelopment and Human Computer Interaction.
+- 👀 I’m interested in Web Development and Human-Computer Interaction.
 - 🌱 I’m currently learning Full Stack Web Development at BCIT and Working at The West Harbour.
 - 📫 How to reach me paarthcode@gmail.com.
 
