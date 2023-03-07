@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Paarth.
-<p> 👀 I’m interested in Full-stack Web Development and Human-Computer Interaction. </p>
-<p>🌱 I’m currently learning Full Stack Web Development at BCIT. I graduated from Langara College with a Diploma in Computer Studies focusing on web development.</p>
+<p>👀 I'm interested in Full-stack Web Development and Human-Computer Interaction. </p>
+<p>🌱 Currently learning Full Stack Web Development at BCIT. I graduated from Langara College with a Diploma in Computer Studies focusing on web development.</p>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
@@ -19,7 +19,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 </p>
 <p>
-<img style="float:left;" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Curerntly working for a design Studio in Vancouver, BC, Canada. I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to connect with you!</b> :)</em>
+<img style="float:left;" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>I work for a design Studio in Vancouver, BC, Canada, and love connecting with different people, so if you want to say hi, I'll be happy to connect with you! :)</em>
 </p>
 <!---
 paarthd00/paarthd00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
