@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Paarth.
-<p> 👀 I’m interested in Web Development and Human-Computer Interaction. </p>
+<p> 👀 I’m interested in Full-stack Web Development and Human-Computer Interaction. </p>
 <p>🌱 I’m currently learning Full Stack Web Development at BCIT. I graduated from Langara College with a Diploma in Computer Studies focusing on web development.</p>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
