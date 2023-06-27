@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Paarth.
 <p>
-<img style="float:left;" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>I work for a design Studio in Vancouver, BC, Canada, and love connecting with different people, so if you want to say hi, I'll be happy to connect with you! :)</em>
+<em>I work for a design Studio in Vancouver, BC, Canada, and love connecting with different people, so if you want to say hi, I'll be happy to connect with you! :)</em>
 </p>
 <p>👀 I'm interested in Full-stack Web Development and Human-Computer Interaction. </p>
 <p>🌱 Currently learning Full Stack Web Development at BCIT. I graduated from Langara College with a Diploma in Computer Studies focusing on web development.</p>
