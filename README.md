@@ -16,6 +16,6 @@ I'm a digital solutions enthusiast based in beautiful Vancouver, BC, Canada. I c
 
 ## Let's Connect
 
-Let's collaborate, exchange ideas, or simply have a chat! You can find me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+Let's collaborate, exchange ideas, or simply have a chat! You can find me on [LinkedIn](https://www.linkedin.com/in/paarth-dhammi-a59519154/).
 
 Looking forward to connecting with you!
