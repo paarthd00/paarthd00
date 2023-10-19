@@ -4,7 +4,7 @@ I'm a digital solutions enthusiast based in beautiful Vancouver, BC, Canada. I c
 
 ## About Me
 
-- 🚀 My passion lies in Full-stack Web Development.
+- 🚀 My passion lies in Full-stack Web and Mobile Development.
 - 🌐 I'm deeply fascinated by the world of Human-Computer Interaction.
 - 🧠 I'm continually exploring the creative possibilities of Generative AI.
 
