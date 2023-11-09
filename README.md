@@ -4,15 +4,15 @@ I'm a digital solutions enthusiast based in beautiful Vancouver, BC, Canada. I c
 
 ## About Me
 
-- 🚀 My passion lies in Full-stack Web and Mobile Development.
-- 🌐 I'm deeply fascinated by the world of Human-Computer Interaction.
-- 🧠 I'm continually exploring the creative possibilities of Generative AI.
+🚀 My passion lies in Full-stack Web and Mobile Development.
+🌐 I'm deeply fascinated by the world of Human-Computer Interaction.
+🧠 I'm continually exploring the creative possibilities of Generative AI.
 
 ## Education
 
-- 📚 I'm currently enrolled in the Full Stack Web Development program at [BCIT (British Columbia Institute of Technology)](https://www.bcit.ca/). It's an exciting journey where I'm honing my skills to become a proficient web developer.
+📚 I'm currently enrolled in the Full Stack Web Development program at [BCIT (British Columbia Institute of Technology)](https://www.bcit.ca/). It's an exciting journey where I'm honing my skills to become a proficient web developer.
 
-- 🎓 I hold a Diploma in Computer Studies from [Langara College](https://langara.ca), with a primary focus on web development. This is where my passion for the web and its endless possibilities first began.
+🎓 I hold a Diploma in Computer Studies from [Langara College](https://langara.ca), with a primary focus on web development. This is where my passion for the web and its endless possibilities first began.
 
 ## Let's Connect
 
