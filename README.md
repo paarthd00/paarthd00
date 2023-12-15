@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Paarth!
+## Hi, I'm Paarth! 💖
 
 I'm a digital solutions enthusiast based in beautiful Vancouver, BC, Canada. I currently work with an amazing design studio and am always excited to connect with like-minded individuals. Feel free to reach out and say hi - I absolutely love making new connections! 😊
 
