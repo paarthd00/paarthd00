@@ -3,7 +3,7 @@ My tech obsession started at age 5, playing PC games with cousins, leading to en
 
 Experienced with: Typescript, PHP, GO, C#, PostgreSQL, ReactJS, VueJS, NextJS, FastifyJS, GraphQL, AWS, Docker, Azure.
 
-## Achievements:
+## Achievements
 
 Lead developer on the award-winning AME Roundup website
 Played a key role in developing the OurSOS public safety app
