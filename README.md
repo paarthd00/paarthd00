@@ -3,7 +3,7 @@ My tech obsession started at age 5, playing PC games with cousins, leading to en
 
 Experienced with: Typescript, PHP, GO, C#, PostgreSQL, ReactJS, VueJS, NextJS, FastifyJS, GraphQL, AWS, Docker, Azure.
 
-Achievements:
+## Achievements:
 
 Lead developer on the award-winning AME Roundup website
 Played a key role in developing the OurSOS public safety app
@@ -18,6 +18,6 @@ Track record of exceptional website performance scores
 🎓 I hold a Diploma in Computer Studies from [Langara College](https://langara.ca), with a primary focus on web development. This is where my passion for the web and its endless possibilities first began.
 
 
-## Beyond Coding:
+## Beyond Coding
 When I'm not behind the screen, you'll find me exploring trails on backpacking adventures or fueling up at my favorite coffee shop. Let's talk tech over a cup sometime!
 You can find me on [LinkedIn](https://www.linkedin.com/in/paarth-dhammi-a59519154/).
