@@ -1,14 +1,15 @@
 ## Hi, I'm Paarth! 💖
+My tech obsession started at age 5, playing PC games with cousins, leading to endless tinkering. That early passion ignited my drive to craft intuitive, satisfying user experiences. Today, as a Vancouver-based Full Stack Developer, I build scalable web and mobile solutions with a laser focus on seamless functionality. I love problem-solving in collaborative teams and quickly mastering new technologies. I'm especially fascinated by Human-Computer Interaction and the potential of Generative AI.
 
-I'm a digital solutions enthusiast based in beautiful Vancouver, BC, Canada. I currently work with an amazing design studio and am always excited to connect with like-minded individuals. Feel free to reach out and say hi - I absolutely love making new connections! 😊
+Experienced with: Typescript, PHP, GO, C#, PostgreSQL, ReactJS, VueJS, NextJS, FastifyJS, GraphQL, AWS, Docker, Azure.
 
-## About Me
+Achievements:
 
-🚀 My passion lies in Full-stack Web and Mobile Development.
+Lead developer on the award-winning AME Roundup website
+Played a key role in developing the OurSOS public safety app
+Streamlined workflow with BulletProof Studio Tools (VFX budgeting solution)
+Track record of exceptional website performance scores
 
-🌐 I'm deeply fascinated by the world of Human-Computer Interaction.
-
-🧠 I'm continually exploring the creative possibilities of Generative AI.
 
 ## Education
 
@@ -16,8 +17,7 @@ I'm a digital solutions enthusiast based in beautiful Vancouver, BC, Canada. I c
 
 🎓 I hold a Diploma in Computer Studies from [Langara College](https://langara.ca), with a primary focus on web development. This is where my passion for the web and its endless possibilities first began.
 
-## Let's Connect
 
-Let's collaborate, exchange ideas, or simply have a chat! You can find me on [LinkedIn](https://www.linkedin.com/in/paarth-dhammi-a59519154/).
-
-Looking forward to connecting with you!
+## Beyond Coding:
+When I'm not behind the screen, you'll find me exploring trails on backpacking adventures or fueling up at my favorite coffee shop. Let's talk tech over a cup sometime!
+You can find me on [LinkedIn](https://www.linkedin.com/in/paarth-dhammi-a59519154/).
