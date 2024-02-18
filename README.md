@@ -19,5 +19,6 @@ Track record of exceptional website performance scores
 
 
 ## Beyond Coding
-When I'm not behind the screen, you'll find me exploring trails on backpacking adventures or fueling up at my favorite coffee shop. Let's talk tech over a cup sometime!
+When I'm not behind the screen, you'll find me exploring trails on backpacking adventures or fueling up at my favourite coffee shop. Let's talk tech over a cup sometime about your next project in need of development!
+
 You can find me on [LinkedIn](https://www.linkedin.com/in/paarth-dhammi-a59519154/).
