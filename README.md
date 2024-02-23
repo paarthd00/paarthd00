@@ -13,7 +13,7 @@ Track record of exceptional website performance scores
 
 ## Education
 
-📚 I'm currently enrolled in the Full Stack Web Development program at [BCIT (British Columbia Institute of Technology)](https://www.bcit.ca/). It's an exciting journey where I'm honing my skills to become a proficient web developer.
+📚 I'm currently enrolled in the Full Stack Web Development program at [BCIT (British Columbia Institute of Technology)](https://www.bcit.ca/). It's an exciting journey where I'm honing my skills to become a proficient Full Stack developer.
 
 🎓 I hold a Diploma in Computer Studies from [Langara College](https://langara.ca), with a primary focus on web development. This is where my passion for the web and its endless possibilities first began.
 
