@@ -5,11 +5,11 @@ Experienced with: Typescript, PHP, GO, C#, PostgreSQL, ReactJS, VueJS, Laravel, 
 
 ## Achievements
 
-Lead developer on the award-winning AME Roundup website
-Played a key role in developing the OurSOS public safety app
-Streamlined workflow with BulletProof Studio Tools (VFX budgeting solution)
-Track record of exceptional website performance scores.
+  - Lead developer on the award-winning AME Roundup website
 
+  - Played a key role in developing the OurSOS public safety app
+
+  - Streamlined workflow with BulletProof Studio Tools (VFX budgeting solution)
 
 ## Education
 
