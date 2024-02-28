@@ -3,21 +3,6 @@ Starting at age 5, my tech obsession began by playing PC games with my cousins, 
 
 Experienced with: Typescript, PHP, GO, C#, PostgreSQL, ReactJS, VueJS, Laravel, NextJS, FastifyJS, GraphQL, AWS, Docker, Azure.
 
-## Achievements
-
-  - Lead developer on the award-winning AME Roundup website
-
-  - Played a key role in developing the OurSOS public safety app
-
-  - Streamlined workflow with BulletProof Studio Tools (VFX budgeting solution)
-
-## Education
-
-📚 I'm currently enrolled in the Full Stack Web Development program at [BCIT (British Columbia Institute of Technology)](https://www.bcit.ca/). It's an exciting journey where I'm honing my skills to become a proficient Full Stack developer.
-
-🎓 I hold a Diploma in Computer Studies from [Langara College](https://langara.ca), with a primary focus on web development. This is where my passion for the web and its endless possibilities first began.
-
-
 ## Beyond Coding
 When I'm not behind the screen, you'll find me exploring trails on backpacking adventures or fueling up at my favourite coffee shop. Let's talk tech over a cup sometime about your next project in need of development!
 
